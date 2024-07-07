@@ -6,18 +6,18 @@
 #include <addons/TokenHelper.h>
 
 /* 1. Define the WiFi credentials */
-#define WIFI_SSID "home@129"
-#define WIFI_PASSWORD "home@1234+"
+#define WIFI_SSID "Enter your  WIFI_SSID"
+#define WIFI_PASSWORD "Enter your password"
 
 /* 2. Define the API Key */
-#define API_KEY "AIzaSyCYnPqjbkx0vgjmRlsnNPid2lYXXOgRdAE"
+#define API_KEY "API_ID"
 
 /* 3. Define the project ID */
 #define FIREBASE_PROJECT_ID "easypark-cc6dd"
 
 /* 4. Define the user Email and password that alreadey registerd or added in your project */
 #define USER_EMAIL "admin@admin.com"
-#define USER_PASSWORD "123456"
+#define USER_PASSWORD "****"
 
 // Define Firebase Data object
 FirebaseData fbdo;
