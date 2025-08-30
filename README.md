@@ -1,6 +1,12 @@
 Smartphone Application
 Our smartphone application provides users with an innovative parking experience, featuring:
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5200c16a-3c6e-499b-9c6c-4eeb579e1983" alt="App Screenshot" width="250"/>
+</p>
+
+
+
 Google Navigation Tool: Helps users find the nearest available parking spots during rush hours.
 User-Friendly Interface: Easy to navigate and interact with for efficient parking management.
 Demonstration Video
@@ -23,6 +29,9 @@ Firebase ESP Client
 Servo
 Configure your WiFi and Firebase credentials in the Arduino code.
 
+<p align="center">
+<img src="https://github.com/user-attachments/assets/24c10868-f447-464e-b565-6462cf07dbe6" alt="Circuit Image" width="300">
+</p>
 Upload the code to your NodeMCU ESP32.
 
 Usage
@@ -31,6 +40,11 @@ Power up the NodeMCU ESP32.
 Open the smartphone application and use the Google Navigation tool to find available parking spots.
 Contributing
 We welcome contributions to enhance the system further. Please fork the repository and submit pull requests.
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/9e894659-0ebd-44fb-83b3-23ab5a807078" alt="Circuit Image" width="300">
+</p>
+
 
 License
 This project is licensed under the MIT License.
